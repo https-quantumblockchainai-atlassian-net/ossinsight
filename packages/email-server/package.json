@@ -47,7 +47,7 @@
     "html-minifier": "^4.0.0",
     "luxon": "^3.1.0",
     "mailing": "^0.8.12",
-    "mailing-core": "^0.8.12",
+    "mailing-core": "^0.9.11",
     "mjml": "^4.13.0",
     "mjml-react": "^2.0.8",
     "mysql2": "^2.3.3",

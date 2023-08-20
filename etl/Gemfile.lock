@@ -148,7 +148,7 @@ GEM
     multipart-post (2.2.3)
     mysql2 (0.5.4)
     naught (1.1.0)
-    nio4r (2.5.8)
+    nio4r (2.5.9)
     nokogiri (1.12.5)
       mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
@@ -160,7 +160,7 @@ GEM
     pry-rails (0.3.9)
       pry (>= 0.10.4)
     public_suffix (4.0.6)
-    puma (5.5.2)
+    puma (5.6.7)
       nio4r (~> 2.0)
     racc (1.6.0)
     rack (2.2.3)
@@ -289,7 +289,7 @@ DEPENDENCIES
   mdtable (~> 0.0.2)
   mysql2 (~> 0.5.4)
   pry-rails (~> 0.3.9)
-  puma (~> 5.0)
+  puma (~> 5.6, >= 5.6.7)
   rack-mini-profiler (~> 2.0)
   rails (~> 6.1.4, >= 6.1.4.1)
   retryable (~> 3.0)
@@ -304,4 +304,4 @@ DEPENDENCIES
   yajl-ruby (~> 1.4)
 
 BUNDLED WITH
-   2.2.25
+   2.1.4

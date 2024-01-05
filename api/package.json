@@ -65,7 +65,7 @@
     "p-queue": "^7.3.0",
     "pinyin": "3.0.0-alpha.5",
     "prom-client": "^14.0.1",
-    "reflect-metadata": "^0.1.13",
+    "reflect-metadata": "^0.2.1",
     "socket.io": "^4.5.2",
     "table": "^6.8.0",
     "tail": "^2.2.4",

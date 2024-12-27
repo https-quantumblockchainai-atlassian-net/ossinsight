@@ -51,7 +51,7 @@
     "octokit": "^2.0.10",
     "pino": "^8.7.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react-dom": "^19.0.0",
     "uglify-js": "^3.17.4",
     "utf-8-validate": "^5.0.10"
   },

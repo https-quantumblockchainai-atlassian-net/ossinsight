@@ -51,7 +51,7 @@
     "mjml": "^4.13.0",
     "mjml-react": "^2.0.8",
     "mysql2": "^2.3.3",
-    "next": "^v12.3.2",
+    "next": "^14.2.24",
     "nodemailer": "^6.8.0",
     "nodemailer-postmark-transport": "^5.2.1",
     "octokit": "^2.0.10",

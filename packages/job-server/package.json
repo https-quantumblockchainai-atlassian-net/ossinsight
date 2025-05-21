@@ -33,7 +33,7 @@
     "@ossinsight/email-server": "workspace:^0.0.1",
     "@types/cron": "^2.0.0",
     "async": "^3.2.4",
-    "axios": "^0.27.2",
+    "axios": "^0.30.0",
     "bufferutil": "^4.0.7",
     "bullmq": "^3.4.1",
     "cron": "^2.1.0",

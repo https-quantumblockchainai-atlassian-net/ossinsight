@@ -36,7 +36,7 @@
     "@mdx-js/react": "^1.6.22",
     "@mui/icons-material": "^5.4.2",
     "@mui/lab": "^5.0.0-alpha.68",
-    "@mui/material": "^5.4.1",
+    "@mui/material": "^5.18.0",
     "@sentry/react": "^7.12.1",
     "@sentry/tracing": "^7.12.1",
     "@stackql/docusaurus-plugin-hubspot": "^1.0.1",

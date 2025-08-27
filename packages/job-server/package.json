@@ -22,7 +22,7 @@
     "watch:ts": "tsc -w"
   },
   "dependencies": {
-    "@bull-board/fastify": "^4.9.0",
+    "@bull-board/fastify": "^5.20.1",
     "@fastify/autoload": "^5.0.0",
     "@fastify/cookie": "^8.3.0",
     "@fastify/env": "^4.1.0",

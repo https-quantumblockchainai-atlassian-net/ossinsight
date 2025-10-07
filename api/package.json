@@ -60,7 +60,7 @@
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
     "node-schedule": "^2.1.0",
-    "node-sql-parser": "^4.5.0",
+    "node-sql-parser": "^4.18.0",
     "octokit": "^1.7.1",
     "p-queue": "^7.3.0",
     "pinyin": "3.0.0-alpha.5",

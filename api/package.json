@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@goparrot/geocoder": "^4.4.0",
-    "@koa/cors": "^3.1.0",
+    "@koa/cors": "^3.4.3",
     "@octokit/core": "^4.0.5",
     "@octokit/plugin-throttling": "^4.3.0",
     "async": "^3.2.4",

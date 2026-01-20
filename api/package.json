@@ -62,7 +62,7 @@
     "node-schedule": "^2.1.0",
     "node-sql-parser": "^4.5.0",
     "octokit": "^1.7.1",
-    "p-queue": "^7.3.0",
+    "p-queue": "^7.4.1",
     "pinyin": "3.0.0-alpha.5",
     "prom-client": "^14.0.1",
     "reflect-metadata": "^0.1.13",

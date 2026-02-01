@@ -23,6 +23,8 @@
 </h3>
 
 ## Introduction
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fossinsight.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fossinsight?ref=badge_shield)
+
 
 OSS Insight analyzes billions of GitHub events and gets insights from them. It also provides a set of tools which can analyze a single repository or developer and compare any two open source software repositories hosted on GitHub.
 
@@ -112,3 +114,7 @@ We have a few channels for contact：
     <img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
   </a>
 </div>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fossinsight.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fossinsight?ref=badge_large)

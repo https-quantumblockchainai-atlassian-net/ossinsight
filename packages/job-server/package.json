@@ -22,7 +22,7 @@
     "watch:ts": "tsc -w"
   },
   "dependencies": {
-    "@bull-board/fastify": "^4.9.0",
+    "@bull-board/fastify": "^6.18.0",
     "@fastify/autoload": "^5.0.0",
     "@fastify/cookie": "^8.3.0",
     "@fastify/env": "^4.1.0",
@@ -33,7 +33,7 @@
     "@ossinsight/email-server": "workspace:^0.0.1",
     "@types/cron": "^2.0.0",
     "async": "^3.2.4",
-    "axios": "^0.27.2",
+    "axios": "^1.13.5",
     "bufferutil": "^4.0.7",
     "bullmq": "^3.4.1",
     "cron": "^2.1.0",
